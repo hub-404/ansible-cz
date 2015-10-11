@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ansible.cz</title><link href="http://www.ansible.cz/" rel="alternate"></link><link href="http://www.ansible.cz/feeds/skoleni.atom.xml" rel="self"></link><id>http://www.ansible.cz/</id><updated>2015-10-10T00:00:00+02:00</updated><entry><title>Ansible školení</title><link href="http://www.ansible.cz/ansible-skoleni.html" rel="alternate"></link><updated>2015-10-10T00:00:00+02:00</updated><author><name>Věroš Kaplan, David Karban</name></author><id>tag:www.ansible.cz,2015-10-10:ansible-skoleni.html</id><summary type="html">&lt;h2&gt;Připravujeme první české školení Ansible&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Termín:&lt;/strong&gt; Druhá polovina listopadu 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kde:&lt;/strong&gt; Brno nebo Praha&lt;/p&gt;
+&lt;h2&gt;Lektoři&lt;/h2&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-sm-6 text-center"&gt;
+&lt;img src="/images/david.png" width="200"&gt;
+&lt;h4&gt;David Karban&lt;/h4&gt;
+&lt;p&gt;Napsal první česky psaný článek o Ansible pro root.cz&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-sm-6 text-center"&gt;
+&lt;img src="/images/veros.png" width="200"&gt;
+&lt;h4&gt;Věroš Kaplan&lt;/h4&gt;
+&lt;p&gt;Přednáší a popularizuje DevOps - ať už to znamená cokoliv&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"&gt;&lt;/script&gt;
+
+&lt;script type="text/javascript"&gt;require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us11.list-manage.com","uuid":"db58e9f46d63f07b48afc1a67","lid":"14435792ee"}) })&lt;/script&gt;</summary></entry></feed>
