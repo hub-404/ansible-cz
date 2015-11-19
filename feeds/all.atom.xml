@@ -3,10 +3,10 @@
 &lt;p&gt;&lt;strong&gt;Kdy:&lt;/strong&gt; 8.prosince 2015 v Praze a 10.prosince 2015 v Brně&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kde:&lt;/strong&gt; V Praze &lt;a href="http://www.hubpraha.cz/"&gt;&lt;strong&gt;ImpactHub&lt;/strong&gt;u&lt;/a&gt; (ulice Drtinova, Praha - Smíchov) a 
 v Brně také v &lt;a href="http://www.hubbrno.cz/"&gt;&lt;strong&gt;ImpactHub&lt;/strong&gt;u&lt;/a&gt; (ulice Cyrilská).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cena:&lt;/strong&gt; Zaváděcí cena v roce je 1500 Kč bez DPH (1815 Kč vč.DPH), po přihlášení
-dostanete zálohovou fakturu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cena:&lt;/strong&gt; Zaváděcí cena v roce 2015 je 1500 Kč bez DPH (1936 Kč vč.DPH). &lt;/p&gt;
+&lt;p&gt;Po přihlášení Vám náš robot pošle zálohovou fakturu.&lt;/p&gt;
 &lt;h2&gt;O čem kurz bude?&lt;/h2&gt;
-&lt;p&gt;Školení proběhne v formě &lt;strong&gt;Teorie + workshop&lt;/strong&gt;u - během školení budeme nové věci 
+&lt;p&gt;Školení proběhne v formě &lt;strong&gt;Teorie + workshop&lt;/strong&gt;u - nové věci budeme
 rovnou zkoušet, cílem bude nahodit na čistém serveru složitější aplikaci 
 z více komponent. 
 V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;.&lt;/p&gt;
@@ -16,7 +16,7 @@ V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;
 &lt;li&gt;&lt;strong&gt;Jak Ansible funguje&lt;/strong&gt; - a k čemu všemu se dá použít.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best practices&lt;/strong&gt; - jak vytvářet role, pracovat se závislostmi a napojením na další systémy.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Integrace&lt;/strong&gt; - jak zapojit Ansible do Vašeho projektu, a navázat jej na vaše stávající prostředí. &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vlastní Ansible moduly&lt;/strong&gt; - dobře napsaný modul pro Ansible může ušetřit spoustu psaní v konfiguraci. A napsat module je lehčí, než to vypadá.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vlastní Ansible moduly&lt;/strong&gt; - dobře napsaný modul pro Ansible může ušetřit spoustu psaní v konfiguraci. A napsat modul je lehčí, než to vypadá.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Co nás čeká v Ansible 2.0&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dotazy a odpovědi&lt;/strong&gt; &lt;/li&gt;
 &lt;/ul&gt;
