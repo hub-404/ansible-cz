@@ -3,21 +3,22 @@
 &lt;p&gt;&lt;strong&gt;Termín:&lt;/strong&gt; 8.prosince 2015 v Praze a 10.prosince 2015 v Brně&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kde:&lt;/strong&gt; V pražském &lt;a href="http://www.hubpraha.cz/"&gt;ImpactHubu&lt;/a&gt; (ulice Drtinova, Praha - Smíchov) a 
 v brněnském &lt;a href="http://www.hubbrno.cz/"&gt;ImpactHubu&lt;/a&gt; (ulice Cyrilská).&lt;/p&gt;
-&lt;h2&gt;Obsah školení&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Cena:&lt;/strong&gt; Zaváděcí cena v roce je 1500 Kč bez DPH (1815 Kč s DPH)&lt;/p&gt;
+&lt;h2&gt;O čem kurz bude?&lt;/h2&gt;
 &lt;p&gt;Školení proběhne v formě &lt;strong&gt;Teorie + workshop&lt;/strong&gt;u - během školení budeme nové věci 
 rovnou zkoušet, cílem bude nahodit na čistém serveru složitější aplikaci z více komponent&lt;/p&gt;
-&lt;p&gt;A o čem kurz vlastně bude?&lt;/p&gt;
+&lt;p&gt;A jakých témat se dotkneme?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;O automatizaci&lt;/strong&gt; - Co je to config management, orchestrace a jak tam zapadá Ansible. &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Jak Ansible funguje&lt;/strong&gt; - k čemu všemu se dá použít.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jak Ansible funguje&lt;/strong&gt; - a k čemu všemu se dá použít.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best practices&lt;/strong&gt; - jak vytvářet role, pracovat se závislostmi a napojením na další systémy.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrace&lt;/strong&gt; - jak zapojit Ansible do Vašeho projektu, a navázat jej na vaše stávající systémy. &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vlastní Ansible moduly&lt;/strong&gt; - dobře napsaný modul pro Ansible může ušetřit spoustu psaní v konfiguraci. Je to lehčí, než to vypadá?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrace&lt;/strong&gt; - jak zapojit Ansible do Vašeho projektu, a navázat jej na vaše stávající prostředí. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vlastní Ansible moduly&lt;/strong&gt; - dobře napsaný modul pro Ansible může ušetřit spoustu psaní v konfiguraci. A napsat module je lehčí, než to vypadá.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Co nás čeká v Ansible 2.0&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dotazy a odpovědi&lt;/strong&gt; &lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="text-center"&gt;&lt;a href="https://docs.google.com/forms/d/1lVwnbFgu7vHHnTNpTTQ0AfhjYnSpXYjZwPqmUQEmHR0/viewform"
-    class="btn btn-primary btn-lg"&gt;Přihlásit se na školení&lt;/a&gt;&lt;/div&gt;
+    class="btn btn-primary btn-lg"&gt;&lt;i class="fa fa-hand-o-right"&gt;&lt;/i&gt; Přihlásit se na školení&lt;/a&gt;&lt;/div&gt;
 
 &lt;p&gt;Těšíme se na Vás&lt;/p&gt;
 &lt;h2&gt;Lektoři&lt;/h2&gt;
