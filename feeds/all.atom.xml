@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ansible.cz</title><link href="http://www.ansible.cz/" rel="alternate"></link><link href="http://www.ansible.cz/feeds/all.atom.xml" rel="self"></link><id>http://www.ansible.cz/</id><updated>2015-10-10T00:00:00+02:00</updated><entry><title>Ansible školení</title><link href="http://www.ansible.cz/ansible-skoleni.html" rel="alternate"></link><updated>2015-10-10T00:00:00+02:00</updated><author><name>Věroš Kaplan, David Karban</name></author><id>tag:www.ansible.cz,2015-10-10:ansible-skoleni.html</id><summary type="html">&lt;h2&gt;Školení Ansible Brno a Praha&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Kdy:&lt;/strong&gt; 8.prosince 2015 v Praze a 10.prosince 2015 v Brně&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ansible.cz</title><link href="http://www.ansible.cz/" rel="alternate"></link><link href="http://www.ansible.cz/feeds/all.atom.xml" rel="self"></link><id>http://www.ansible.cz/</id><updated>2015-10-10T00:00:00+02:00</updated><entry><title>Ansible školení</title><link href="http://www.ansible.cz/ansible-skoleni.html" rel="alternate"></link><updated>2015-10-10T00:00:00+02:00</updated><author><name>Věroš Kaplan, David Karban</name></author><id>tag:www.ansible.cz,2015-10-10:ansible-skoleni.html</id><summary type="html">&lt;h2&gt;Otevřené školení Ansible Brno a Praha&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Nejbližší termíny:&lt;/strong&gt; Brno, 24 - 25.3., Praha: 31.3. - 1.4.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kde:&lt;/strong&gt; V Praze &lt;a href="http://www.hubpraha.cz/"&gt;&lt;strong&gt;ImpactHub&lt;/strong&gt;u&lt;/a&gt; (ulice Drtinova, Praha - Smíchov) a 
 v Brně také v &lt;a href="http://www.hubbrno.cz/"&gt;&lt;strong&gt;ImpactHub&lt;/strong&gt;u&lt;/a&gt; (ulice Cyrilská).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cena:&lt;/strong&gt; Zaváděcí cena v roce 2015 je 1500 Kč bez DPH (1936 Kč vč.DPH). &lt;/p&gt;
-&lt;p&gt;Po přihlášení Vám náš robot pošle zálohovou fakturu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cena:&lt;/strong&gt; Cena v roce 2016 je 3500 Kč bez DPH (dohromady za oba dva dny). &lt;/p&gt;
+&lt;p&gt;Po přihlášení Vám pošleme zálohovou fakturu.&lt;/p&gt;
 &lt;h2&gt;O čem kurz bude?&lt;/h2&gt;
 &lt;p&gt;Školení proběhne v formě &lt;strong&gt;Teorie + workshop&lt;/strong&gt;u - nové věci budeme
 rovnou zkoušet, cílem bude nahodit na čistém serveru složitější aplikaci 
 z více komponent. 
 V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;.&lt;/p&gt;
-&lt;h3&gt;A jakým tématům se budeme věnovat?&lt;/h3&gt;
+&lt;h3&gt;Obsah školení:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;O automatizaci&lt;/strong&gt; - Co je to config management, orchestrace a jak tam zapadá Ansible. &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Jak Ansible funguje&lt;/strong&gt; - a k čemu všemu se dá použít.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best practices&lt;/strong&gt; - jak vytvářet role, pracovat se závislostmi a napojením na další systémy.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Integrace&lt;/strong&gt; - jak zapojit Ansible do Vašeho projektu, a navázat jej na vaše stávající prostředí. &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vlastní Ansible moduly&lt;/strong&gt; - dobře napsaný modul pro Ansible může ušetřit spoustu psaní v konfiguraci. A napsat modul je lehčí, než to vypadá.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Co nás čeká v Ansible 2.0&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nové schopnosti Ansible 2.0&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dotazy a odpovědi&lt;/strong&gt; &lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="text-center"&gt;&lt;a href="https://docs.google.com/forms/d/1lVwnbFgu7vHHnTNpTTQ0AfhjYnSpXYjZwPqmUQEmHR0/viewform"
@@ -39,8 +39,11 @@ V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr /&gt;
-
+&lt;h2&gt;Firemní školení Ansible&lt;/h2&gt;
+&lt;p&gt;Na požádání umíme školení i u Vás ve firmě, po domluvě můžeme zajistit i přednáškovou místnost 
+v Praze, Brně či Ostravě.  Školení je dvoudenní stejně jako otevřené školení.&lt;/p&gt;
+&lt;p&gt;Cena školení pro firmy: 30000 Kč bez DPH.&lt;/p&gt;
+&lt;h2&gt;Další termíny školení&lt;/h2&gt;
 &lt;!-- Begin MailChimp Signup Form --&gt;
 
 &lt;p&gt;&lt;link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css"&gt;
