@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ansible.cz</title><link href="http://www.ansible.cz/" rel="alternate"></link><link href="http://www.ansible.cz/feeds/all.atom.xml" rel="self"></link><id>http://www.ansible.cz/</id><updated>2015-10-10T00:00:00+02:00</updated><entry><title>Ansible školení</title><link href="http://www.ansible.cz/ansible-skoleni.html" rel="alternate"></link><updated>2015-10-10T00:00:00+02:00</updated><author><name>Věroš Kaplan, David Karban</name></author><id>tag:www.ansible.cz,2015-10-10:ansible-skoleni.html</id><summary type="html">&lt;h2&gt;Otevřené školení Brno a Praha&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Nejbližší termíny:&lt;/strong&gt; Brno, 7. - 8.4., Praha: 31.3. - 1.4.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kde:&lt;/strong&gt; V Praze &lt;a href="http://www.hubpraha.cz/"&gt;&lt;strong&gt;ImpactHub&lt;/strong&gt;u&lt;/a&gt; (ulice Drtinova, Praha - Smíchov) a 
-v Brně také v &lt;a href="http://www.hubbrno.cz/"&gt;&lt;strong&gt;ImpactHub&lt;/strong&gt;u&lt;/a&gt; (ulice Cyrilská).&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ansible.cz</title><link href="http://www.ansible.cz/" rel="alternate"></link><link href="http://www.ansible.cz/feeds/all.atom.xml" rel="self"></link><id>http://www.ansible.cz/</id><updated>2016-06-06T00:00:00+02:00</updated><entry><title>Ansible školení</title><link href="http://www.ansible.cz/ansible-skoleni.html" rel="alternate"></link><updated>2016-06-06T00:00:00+02:00</updated><author><name>Věroš Kaplan, David Karban</name></author><id>tag:www.ansible.cz,2016-06-06:ansible-skoleni.html</id><summary type="html">&lt;h2&gt;Otevřené školení  Praha&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Nejbližší termíny:&lt;/strong&gt; Praha: 8.9. - 9.9.2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kde:&lt;/strong&gt; &lt;a href="http://www.hubpraha.cz/"&gt;&lt;strong&gt;ImpactHub&lt;/strong&gt;u&lt;/a&gt; (ulice Drtinova, Praha - Smíchov).&lt;/p&gt;
+&lt;!-- v Brně také v [**ImpactHub**u][hub-brno] (ulice Cyrilská). --&gt;
+
 &lt;p&gt;&lt;strong&gt;Cena:&lt;/strong&gt; Cena v roce 2016 je 3500 Kč bez DPH (dohromady za oba dva dny). &lt;/p&gt;
 &lt;p&gt;Po přihlášení Vám pošleme zálohovou fakturu.&lt;/p&gt;
-&lt;h2&gt;O čem kurz bude?&lt;/h2&gt;
-&lt;p&gt;Školení proběhne v formě &lt;strong&gt;Teorie + workshop&lt;/strong&gt;u - nové věci budeme
-rovnou zkoušet, cílem bude nahodit na čistém serveru složitější aplikaci 
-z více komponent. 
+&lt;h2&gt;Firemní školení Ansible&lt;/h2&gt;
+&lt;p&gt;Na požádání připravíme školení u Vás ve firmě, po domluvě můžeme zajistit i přednáškovou místnost 
+v Praze, Brně či Ostravě.  Školení je dvoudenní stejně jako otevřené školení.&lt;/p&gt;
+&lt;p&gt;Cena školení pro firmy: 30000 Kč bez DPH.&lt;/p&gt;
+&lt;h2&gt;Co bude v kurzu?&lt;/h2&gt;
+&lt;p&gt;Školení proběhne v formě &lt;strong&gt;workshop&lt;/strong&gt;u - pomocí Ansible zkusíme nahodit 
+nějaký složitější systém a přitom si vysvětlíme jeho vlastnosti.
 V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3&gt;Obsah školení:&lt;/h3&gt;
 &lt;ul&gt;
@@ -18,6 +22,7 @@ V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;
 &lt;li&gt;&lt;strong&gt;Integrace&lt;/strong&gt; - jak zapojit Ansible do Vašeho projektu, a navázat jej na vaše stávající prostředí. &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vlastní Ansible moduly&lt;/strong&gt; - dobře napsaný modul pro Ansible může ušetřit spoustu psaní v konfiguraci. A napsat modul je lehčí, než to vypadá.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Nové schopnosti Ansible 2.0&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Odkazy na další materiály&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dotazy a odpovědi&lt;/strong&gt; &lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="text-center"&gt;&lt;a href="https://docs.google.com/forms/d/1lVwnbFgu7vHHnTNpTTQ0AfhjYnSpXYjZwPqmUQEmHR0/viewform"
@@ -29,7 +34,7 @@ V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;
 &lt;div class="col-sm-6 text-center"&gt;
 &lt;img src="/images/david-200.png" width="200"&gt;
 &lt;h4&gt;David Karban&lt;/h4&gt;
-&lt;p&gt;Napsal první česky psaný článek o Ansible pro root.cz.&lt;br&gt;
+&lt;p&gt;Automatizátor. Napsal první česky psaný článek o Ansible pro root.cz.&lt;br&gt;
  &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="col-sm-6 text-center"&gt;
@@ -39,10 +44,6 @@ V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;Firemní školení Ansible&lt;/h2&gt;
-&lt;p&gt;Na požádání umíme školení i u Vás ve firmě, po domluvě můžeme zajistit i přednáškovou místnost 
-v Praze, Brně či Ostravě.  Školení je dvoudenní stejně jako otevřené školení.&lt;/p&gt;
-&lt;p&gt;Cena školení pro firmy: 30000 Kč bez DPH.&lt;/p&gt;
 &lt;h2&gt;Další termíny školení&lt;/h2&gt;
 &lt;!-- Begin MailChimp Signup Form --&gt;
 
