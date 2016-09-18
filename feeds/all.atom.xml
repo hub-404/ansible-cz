@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>ansible.cz</title><link href="http://www.ansible.cz/" rel="alternate"></link><link href="http://www.ansible.cz/feeds/all.atom.xml" rel="self"></link><id>http://www.ansible.cz/</id><updated>2016-06-06T00:00:00+02:00</updated><entry><title>Ansible školení</title><link href="http://www.ansible.cz/ansible-skoleni.html" rel="alternate"></link><updated>2016-06-06T00:00:00+02:00</updated><author><name>Věroš Kaplan, David Karban</name></author><id>tag:www.ansible.cz,2016-06-06:ansible-skoleni.html</id><summary type="html">&lt;h2&gt;Otevřené školení  Praha&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Nejbližší termíny:&lt;/strong&gt; Praha: 8.9. - 9.9.2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nejbližší termíny:&lt;/strong&gt; Praha: 22.11. - 23.11.2016&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kde:&lt;/strong&gt; &lt;a href="http://www.hubpraha.cz/"&gt;&lt;strong&gt;ImpactHub&lt;/strong&gt;u&lt;/a&gt; (ulice Drtinova, Praha - Smíchov).&lt;/p&gt;
 &lt;!-- v Brně také v [**ImpactHub**u][hub-brno] (ulice Cyrilská). --&gt;
 
@@ -21,7 +21,7 @@ V průběhu bude čas i na &lt;strong&gt;vaše dotazy a odpovědi&lt;/strong&gt;
 &lt;li&gt;&lt;strong&gt;Best practices&lt;/strong&gt; - jak vytvářet role, pracovat se závislostmi a napojením na další systémy.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Integrace&lt;/strong&gt; - jak zapojit Ansible do Vašeho projektu, a navázat jej na vaše stávající prostředí. &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vlastní Ansible moduly&lt;/strong&gt; - dobře napsaný modul pro Ansible může ušetřit spoustu psaní v konfiguraci. A napsat modul je lehčí, než to vypadá.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nové schopnosti Ansible 2.0&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nové schopnosti Ansible řady 2.0 a 2.1&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Odkazy na další materiály&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dotazy a odpovědi&lt;/strong&gt; &lt;/li&gt;
 &lt;/ul&gt;
