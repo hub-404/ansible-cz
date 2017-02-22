@@ -1,0 +1,3 @@
+[submodule "themes/bootstrap3"]
+	path = themes/bootstrap3
+	url = https://github.com/hub-404/pelican-bootstrap3
